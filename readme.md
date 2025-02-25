@@ -16,6 +16,6 @@ This is simple a tool that converts HTML into PDF.
 
 ## Translator
 
-Simple internationalization (i18n) implementation.
-
 [Github](https://github.com/criticow/angular-translator)
+
+Simple internationalization (i18n) implementation.
